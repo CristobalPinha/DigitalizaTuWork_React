@@ -111,15 +111,15 @@ export const Contact = () => {
           <div className="absolute -inset-1 bg-gradient-to-r from-[#e81cff] to-[#40c9ff] rounded-[18px] blur-xl opacity-60 group-hover:opacity-100 transition-opacity duration-500"></div>
 
           <div className="form-container relative">
-            <div className="border-b border-white/10 pb-4 mb-2">
+            <div className="border-b border-primary/10 pb-4 mb-2">
               <div className="flex justify-center sm:justify-start gap-1.5 mb-3">
                 <div className="w-2.5 h-2.5 rounded-full bg-[#ff5f57]"></div>
                 <div className="w-2.5 h-2.5 rounded-full bg-[#febc2e]"></div>
                 <div className="w-2.5 h-2.5 rounded-full bg-[#28c840]"></div>
               </div>
               <div>
-                <p className="text-[10px] font-black uppercase tracking-[0.3em] text-white/40">Formulario</p>
-                <h3 className="text-2xl font-black text-white mt-1">Envíanos tu proyecto</h3>
+                <p className="text-[10px] font-black uppercase tracking-[0.3em] text-text-main/40">Formulario</p>
+                <h3 className="text-2xl font-black text-text-main mt-1">Envíanos tu proyecto</h3>
               </div>
             </div>
 
